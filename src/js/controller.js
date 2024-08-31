@@ -134,5 +134,6 @@ const init = function () {
   searchView.addHandlerSearch(conrtolSearchResults);
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
+  alert('HACKED');
 };
 init();
